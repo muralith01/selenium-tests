@@ -1,4 +1,4 @@
-node('linux') {
+node('devops1') {
 
   checkout scm
 
